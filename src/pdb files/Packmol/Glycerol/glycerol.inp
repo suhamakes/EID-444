@@ -1,0 +1,16 @@
+tolerance 2.0
+
+filetype pdb
+
+output Glycerolx9.pdb
+
+#structure AmyloidBetaModel.pdb
+#  number 1
+#  inside box 0. 0. 0.  50. 50. 50.
+#end structure
+
+structure glycerol.pdb 
+  number 9 
+  inside box 0. 0. 0.  50. 50. 50. 
+end structure
+

@@ -1,0 +1,27 @@
+#
+# A mixture of Water and Amyloid Beta
+#
+
+# All the atoms from diferent molecules will be separated at least 1 Anstroms at the solution.
+
+tolerance 5.0
+
+# The file type of input and output files is PDB
+
+filetype pdb
+
+# The name of the output file
+
+output BulkWater.pdb
+
+
+#structure AmyloidBetaModel.pdb
+#  number 1
+#  inside box 0. 0. 0. 100. 100. 100. 
+#end structure
+
+structure water.pdb 
+  number 10000 
+  inside box 0. 0. 0. 100. 100. 100. 
+end structure
+

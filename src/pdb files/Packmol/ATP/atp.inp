@@ -1,0 +1,17 @@
+tolerance 2.0 #Angstroms.
+
+filetype pdb 
+
+output atpx9.pdb #name of output file.
+
+#structure AmyloidBetaModel.pdb
+#  number 1
+#  inside box 0. 0. 0.  50. 50. 50. #dimensions of box (angstroms).
+#  inside box 0. 0. 0.  50. 50. 50. #center the protein in the box.
+#end structure
+
+structure ATP.pdb 
+  number 9 
+  inside box 0. 0. 0.  50. 50. 50. 
+end structure
+

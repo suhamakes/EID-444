@@ -1,0 +1,258 @@
+HEADER 
+TITLE     Built with Packmol                                             
+REMARK   Packmol generated pdb file 
+REMARK   Home-Page: http://m3g.iqm.unicamp.br/packmol
+REMARK
+HETATM    1  C1  GOL A   1       4.621  36.379  32.399  1.00 10.00           C  
+HETATM    2  O1  GOL A   1       3.342  36.533  32.530  1.00 10.00           O  
+HETATM    3  C2  GOL A   1       5.309  37.365  33.379  1.00 10.00           C  
+HETATM    4  O2  GOL A   1       5.425  36.416  34.373  1.00 10.00           O  
+HETATM    5  C3  GOL A   1       6.456  38.286  32.938  1.00 10.00           C  
+HETATM    6  O3  GOL A   1       7.557  38.006  33.842  1.00 10.00           O  
+HETATM    7  H11 GOL A   1       4.905  35.344  32.640  1.00 10.00           H  
+HETATM    8  H12 GOL A   1       4.926  36.597  31.365  1.00 10.00           H  
+HETATM    9  HO1 GOL A   1       2.890  35.941  31.941  1.00 10.00           H  
+HETATM   10  H2  GOL A   1       4.803  38.307  33.636  1.00 10.00           H  
+HETATM   11  HO2 GOL A   1       5.845  36.803  35.133  1.00 10.00           H  
+HETATM   12  H31 GOL A   1       6.745  38.078  31.897  1.00 10.00           H  
+HETATM   13  H32 GOL A   1       6.156  39.342  33.006  1.00 10.00           H  
+HETATM   14  HO3 GOL A   1       8.301  38.551  33.615  1.00 10.00           H  
+HETATM   15  C1  GOL A   2      25.603  18.728  34.774  1.00 10.00           C  
+HETATM   16  O1  GOL A   2      24.808  19.676  34.394  1.00 10.00           O  
+HETATM   17  C2  GOL A   2      26.702  18.584  33.689  1.00 10.00           C  
+HETATM   18  O2  GOL A   2      27.579  19.414  34.356  1.00 10.00           O  
+HETATM   19  C3  GOL A   2      27.096  17.219  33.102  1.00 10.00           C  
+HETATM   20  O3  GOL A   2      28.527  17.099  33.309  1.00 10.00           O  
+HETATM   21  H11 GOL A   2      26.058  18.980  35.743  1.00 10.00           H  
+HETATM   22  H12 GOL A   2      25.047  17.785  34.879  1.00 10.00           H  
+HETATM   23  HO1 GOL A   2      24.120  19.791  35.039  1.00 10.00           H  
+HETATM   24  H2  GOL A   2      26.464  18.836  32.645  1.00 10.00           H  
+HETATM   25  HO2 GOL A   2      28.384  19.491  33.858  1.00 10.00           H  
+HETATM   26  H31 GOL A   2      26.558  16.406  33.614  1.00 10.00           H  
+HETATM   27  H32 GOL A   2      26.852  17.171  32.031  1.00 10.00           H  
+HETATM   28  HO3 GOL A   2      28.829  16.267  32.964  1.00 10.00           H  
+HETATM   29  C1  GOL A   3      33.984  40.542  14.683  1.00 10.00           C  
+HETATM   30  O1  GOL A   3      34.098  40.467  15.971  1.00 10.00           O  
+HETATM   31  C2  GOL A   3      35.338  40.093  14.073  1.00 10.00           C  
+HETATM   32  O2  GOL A   3      34.918  38.790  13.905  1.00 10.00           O  
+HETATM   33  C3  GOL A   3      36.052  40.908  12.984  1.00 10.00           C  
+HETATM   34  O3  GOL A   3      36.258  39.992  11.877  1.00 10.00           O  
+HETATM   35  H11 GOL A   3      33.174  39.885  14.335  1.00 10.00           H  
+HETATM   36  H12 GOL A   3      33.756  41.575  14.383  1.00 10.00           H  
+HETATM   37  HO1 GOL A   3      33.283  40.736  16.378  1.00 10.00           H  
+HETATM   38  H2  GOL A   3      36.265  40.256  14.642  1.00 10.00           H  
+HETATM   39  HO2 GOL A   3      35.620  38.278  13.520  1.00 10.00           H  
+HETATM   40  H31 GOL A   3      35.435  41.764  12.671  1.00 10.00           H  
+HETATM   41  H32 GOL A   3      37.013  41.294  13.353  1.00 10.00           H  
+HETATM   42  HO3 GOL A   3      36.699  40.445  11.168  1.00 10.00           H  
+HETATM   43  C1  GOL A   4       6.964  44.798  10.834  1.00 10.00           C  
+HETATM   44  O1  GOL A   4       6.846  45.593  11.850  1.00 10.00           O  
+HETATM   45  C2  GOL A   4       8.427  44.283  10.819  1.00 10.00           C  
+HETATM   46  O2  GOL A   4       8.112  43.136  11.516  1.00 10.00           O  
+HETATM   47  C3  GOL A   4       9.285  44.300   9.544  1.00 10.00           C  
+HETATM   48  O3  GOL A   4       9.735  42.933   9.354  1.00 10.00           O  
+HETATM   49  H11 GOL A   4       6.265  43.955  10.928  1.00 10.00           H  
+HETATM   50  H12 GOL A   4       6.742  45.339   9.902  1.00 10.00           H  
+HETATM   51  HO1 GOL A   4       5.957  45.928  11.888  1.00 10.00           H  
+HETATM   52  H2  GOL A   4       9.226  44.919  11.227  1.00 10.00           H  
+HETATM   53  HO2 GOL A   4       8.897  42.615  11.642  1.00 10.00           H  
+HETATM   54  H31 GOL A   4       8.692  44.639   8.681  1.00 10.00           H  
+HETATM   55  H32 GOL A   4      10.142  44.979   9.660  1.00 10.00           H  
+HETATM   56  HO3 GOL A   4      10.274  42.882   8.573  1.00 10.00           H  
+HETATM   57  C1  GOL A   5      26.872   7.119  32.947  1.00 10.00           C  
+HETATM   58  O1  GOL A   5      27.998   6.545  32.666  1.00 10.00           O  
+HETATM   59  C2  GOL A   5      25.743   6.106  32.622  1.00 10.00           C  
+HETATM   60  O2  GOL A   5      25.683   5.640  33.919  1.00 10.00           O  
+HETATM   61  C3  GOL A   5      24.509   6.498  31.796  1.00 10.00           C  
+HETATM   62  O3  GOL A   5      23.361   6.164  32.619  1.00 10.00           O  
+HETATM   63  H11 GOL A   5      26.841   7.393  34.012  1.00 10.00           H  
+HETATM   64  H12 GOL A   5      26.750   8.030  32.344  1.00 10.00           H  
+HETATM   65  HO1 GOL A   5      28.714   7.141  32.855  1.00 10.00           H  
+HETATM   66  H2  GOL A   5      25.900   5.364  31.825  1.00 10.00           H  
+HETATM   67  HO2 GOL A   5      25.018   4.964  33.982  1.00 10.00           H  
+HETATM   68  H31 GOL A   5      24.521   7.573  31.562  1.00 10.00           H  
+HETATM   69  H32 GOL A   5      24.482   5.941  30.848  1.00 10.00           H  
+HETATM   70  HO3 GOL A   5      22.562   6.386  32.155  1.00 10.00           H  
+HETATM   71  C1  GOL A   6      35.499   1.824  36.861  1.00 10.00           C  
+HETATM   72  O1  GOL A   6      35.196   0.631  36.460  1.00 10.00           O  
+HETATM   73  C2  GOL A   6      36.196   2.547  35.679  1.00 10.00           C  
+HETATM   74  O2  GOL A   6      35.024   3.129  35.243  1.00 10.00           O  
+HETATM   75  C3  GOL A   6      37.516   3.312  35.854  1.00 10.00           C  
+HETATM   76  O3  GOL A   6      37.260   4.656  35.370  1.00 10.00           O  
+HETATM   77  H11 GOL A   6      34.590   2.368  37.156  1.00 10.00           H  
+HETATM   78  H12 GOL A   6      36.176   1.773  37.727  1.00 10.00           H  
+HETATM   79  HO1 GOL A   6      34.766   0.159  37.164  1.00 10.00           H  
+HETATM   80  H2  GOL A   6      36.768   1.956  34.949  1.00 10.00           H  
+HETATM   81  HO2 GOL A   6      35.199   3.660  34.475  1.00 10.00           H  
+HETATM   82  H31 GOL A   6      37.819   3.330  36.912  1.00 10.00           H  
+HETATM   83  H32 GOL A   6      38.322   2.837  35.275  1.00 10.00           H  
+HETATM   84  HO3 GOL A   6      38.049   5.180  35.455  1.00 10.00           H  
+HETATM   85  C1  GOL A   7      26.358  21.550  41.698  1.00 10.00           C  
+HETATM   86  O1  GOL A   7      27.349  22.371  41.835  1.00 10.00           O  
+HETATM   87  C2  GOL A   7      26.218  20.766  43.029  1.00 10.00           C  
+HETATM   88  O2  GOL A   7      25.266  21.631  43.527  1.00 10.00           O  
+HETATM   89  C3  GOL A   7      26.085  19.236  43.066  1.00 10.00           C  
+HETATM   90  O3  GOL A   7      24.865  18.964  43.803  1.00 10.00           O  
+HETATM   91  H11 GOL A   7      25.432  22.104  41.484  1.00 10.00           H  
+HETATM   92  H12 GOL A   7      26.553  20.855  40.867  1.00 10.00           H  
+HETATM   93  HO1 GOL A   7      27.462  22.868  41.034  1.00 10.00           H  
+HETATM   94  H2  GOL A   7      27.111  20.590  43.646  1.00 10.00           H  
+HETATM   95  HO2 GOL A   7      25.000  21.346  44.394  1.00 10.00           H  
+HETATM   96  H31 GOL A   7      26.025  18.826  42.047  1.00 10.00           H  
+HETATM   97  H32 GOL A   7      26.952  18.782  43.567  1.00 10.00           H  
+HETATM   98  HO3 GOL A   7      24.730  18.025  43.858  1.00 10.00           H  
+HETATM   99  C1  GOL A   8      39.335   7.949  10.734  1.00 10.00           C  
+HETATM  100  O1  GOL A   8      40.247   7.225  10.167  1.00 10.00           O  
+HETATM  101  C2  GOL A   8      38.739   8.878   9.644  1.00 10.00           C  
+HETATM  102  O2  GOL A   8      37.700   8.014   9.367  1.00 10.00           O  
+HETATM  103  C3  GOL A   8      38.560  10.387   9.867  1.00 10.00           C  
+HETATM  104  O3  GOL A   8      37.157  10.660   9.613  1.00 10.00           O  
+HETATM  105  H11 GOL A   8      38.549   7.307  11.157  1.00 10.00           H  
+HETATM  106  H12 GOL A   8      39.776   8.549  11.544  1.00 10.00           H  
+HETATM  107  HO1 GOL A   8      40.634   6.642  10.810  1.00 10.00           H  
+HETATM  108  H2  GOL A   8      39.372   9.193   8.801  1.00 10.00           H  
+HETATM  109  HO2 GOL A   8      37.154   8.384   8.683  1.00 10.00           H  
+HETATM  110  H31 GOL A   8      38.831  10.664  10.897  1.00 10.00           H  
+HETATM  111  H32 GOL A   8      39.199  10.961   9.179  1.00 10.00           H  
+HETATM  112  HO3 GOL A   8      36.986  11.586   9.737  1.00 10.00           H  
+HETATM  113  C1  GOL A   9      43.600  37.853  24.729  1.00 10.00           C  
+HETATM  114  O1  GOL A   9      43.319  36.616  24.468  1.00 10.00           O  
+HETATM  115  C2  GOL A   9      43.412  38.056  26.256  1.00 10.00           C  
+HETATM  116  O2  GOL A   9      44.745  37.830  26.528  1.00 10.00           O  
+HETATM  117  C3  GOL A   9      42.611  39.235  26.829  1.00 10.00           C  
+HETATM  118  O3  GOL A   9      43.510  39.915  27.744  1.00 10.00           O  
+HETATM  119  H11 GOL A   9      44.637  38.076  24.441  1.00 10.00           H  
+HETATM  120  H12 GOL A   9      42.927  38.521  24.172  1.00 10.00           H  
+HETATM  121  HO1 GOL A   9      43.424  36.457  23.537  1.00 10.00           H  
+HETATM  122  H2  GOL A   9      42.675  37.442  26.794  1.00 10.00           H  
+HETATM  123  HO2 GOL A   9      44.895  37.904  27.463  1.00 10.00           H  
+HETATM  124  H31 GOL A   9      42.287  39.913  26.026  1.00 10.00           H  
+HETATM  125  H32 GOL A   9      41.716  38.877  27.358  1.00 10.00           H  
+HETATM  126  HO3 GOL A   9      43.065  40.660  28.132  1.00 10.00           H  
+CONECT    1    2    3    7    8
+CONECT    2    1    9
+CONECT    3    1    4    5   10
+CONECT    4    3   11
+CONECT    5    3    6   12   13
+CONECT    6    5   14
+CONECT    7    1
+CONECT    8    1
+CONECT    9    2
+CONECT   10    3
+CONECT   11    4
+CONECT   12    5
+CONECT   13    5
+CONECT   14    6
+CONECT   15   16   17   21   22
+CONECT   16   15   23
+CONECT   17   15   18   19   24
+CONECT   18   17   25
+CONECT   19   17   20   26   27
+CONECT   20   19   28
+CONECT   21   15
+CONECT   22   15
+CONECT   23   16
+CONECT   24   17
+CONECT   25   18
+CONECT   26   19
+CONECT   27   19
+CONECT   28   20
+CONECT   29   30   31   35   36
+CONECT   30   29   37
+CONECT   31   29   32   33   38
+CONECT   32   31   39
+CONECT   33   31   34   40   41
+CONECT   34   33   42
+CONECT   35   29
+CONECT   36   29
+CONECT   37   30
+CONECT   38   31
+CONECT   39   32
+CONECT   40   33
+CONECT   41   33
+CONECT   42   34
+CONECT   43   44   45   49   50
+CONECT   44   43   51
+CONECT   45   43   46   47   52
+CONECT   46   45   53
+CONECT   47   45   48   54   55
+CONECT   48   47   56
+CONECT   49   43
+CONECT   50   43
+CONECT   51   44
+CONECT   52   45
+CONECT   53   46
+CONECT   54   47
+CONECT   55   47
+CONECT   56   48
+CONECT   57   58   59   63   64
+CONECT   58   57   65
+CONECT   59   57   60   61   66
+CONECT   60   59   67
+CONECT   61   59   62   68   69
+CONECT   62   61   70
+CONECT   63   57
+CONECT   64   57
+CONECT   65   58
+CONECT   66   59
+CONECT   67   60
+CONECT   68   61
+CONECT   69   61
+CONECT   70   62
+CONECT   71   72   73   77   78
+CONECT   72   71   79
+CONECT   73   71   74   75   80
+CONECT   74   73   81
+CONECT   75   73   76   82   83
+CONECT   76   75   84
+CONECT   77   71
+CONECT   78   71
+CONECT   79   72
+CONECT   80   73
+CONECT   81   74
+CONECT   82   75
+CONECT   83   75
+CONECT   84   76
+CONECT   85   86   87   91   92
+CONECT   86   85   93
+CONECT   87   85   88   89   94
+CONECT   88   87   95
+CONECT   89   87   90   96   97
+CONECT   90   89   98
+CONECT   91   85
+CONECT   92   85
+CONECT   93   86
+CONECT   94   87
+CONECT   95   88
+CONECT   96   89
+CONECT   97   89
+CONECT   98   90
+CONECT   99  100  101  105  106
+CONECT  100   99  107
+CONECT  101   99  102  103  108
+CONECT  102  101  109
+CONECT  103  101  104  110  111
+CONECT  104  103  112
+CONECT  105   99
+CONECT  106   99
+CONECT  107  100
+CONECT  108  101
+CONECT  109  102
+CONECT  110  103
+CONECT  111  103
+CONECT  112  104
+CONECT  113  114  115  119  120
+CONECT  114  113  121
+CONECT  115  113  116  117  122
+CONECT  116  115  123
+CONECT  117  115  118  124  125
+CONECT  118  117  126
+CONECT  119  113
+CONECT  120  113
+CONECT  121  114
+CONECT  122  115
+CONECT  123  116
+CONECT  124  117
+CONECT  125  117
+CONECT  126  118
+END

@@ -1,0 +1,42 @@
+HEADER                                            19-OCT-24   GOL
+TITLE     GLYCEROL
+COMPND    MOL_ID: 1;
+COMPND   2 MOLECULE: GLYCEROL;
+COMPND   3 CHAIN: A
+REMARK   4 GOL COMPLIES WITH FORMAT V. 3.30, 19-OCT-24
+REMARK 100
+REMARK 100 THIS ENTRY HAS BEEN PROCESSED BY EBI
+REMARK 100
+HET    GOL  A   1       1
+HETNAM     GOL GLYCEROL
+HETSYN     GOL GLYCERIN; PROPANE-1,2,3-TRIOL
+FORMUL    1  GOL    C3 H8 O3
+HETATM    1  C1  GOL A   1      29.490   2.376  31.160  1.00 10.00           C
+HETATM    2  O1  GOL A   1      28.524   1.609  30.767  1.00 10.00           O
+HETATM    3  C2  GOL A   1      30.249   2.850  29.893  1.00 10.00           C
+HETATM    4  O2  GOL A   1      29.526   4.021  29.804  1.00 10.00           O
+HETATM    5  C3  GOL A   1      31.780   2.780  29.785  1.00 10.00           C
+HETATM    6  O3  GOL A   1      32.215   4.129  29.472  1.00 10.00           O
+HETATM    7  H11 GOL A   1      29.089   3.241  31.708  1.00 10.00           H
+HETATM    8  H12 GOL A   1      30.169   1.821  31.824  1.00 10.00           H
+HETATM    9  HO1 GOL A   1      28.037   1.300  31.522  1.00 10.00           H
+HETATM   10  H2  GOL A   1      30.271   2.201  29.005  1.00 10.00           H
+HETATM   11  HO2 GOL A   1      29.825   4.522  29.054  1.00 10.00           H
+HETATM   12  H31 GOL A   1      32.222   2.438  30.733  1.00 10.00           H
+HETATM   13  H32 GOL A   1      32.083   2.080  28.993  1.00 10.00           H
+HETATM   14  HO3 GOL A   1      33.162   4.147  29.393  1.00 10.00           H
+CONECT    1    2    3    7    8
+CONECT    2    1    9
+CONECT    3    1    4    5   10
+CONECT    4    3   11
+CONECT    5    3    6   12   13
+CONECT    6    5   14
+CONECT    7    1
+CONECT    8    1
+CONECT    9    2
+CONECT   10    3
+CONECT   11    4
+CONECT   12    5
+CONECT   13    5
+CONECT   14    6
+END

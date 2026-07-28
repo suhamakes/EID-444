@@ -1,0 +1,1 @@
+HEADER    Single Water MoleculeATOM      1  O   HOH A   1      0.000   0.000   0.000ATOM      2  H1  HOH A   1      0.000   0.757   0.586ATOM      3  H2  HOH A   1      0.000  -0.757   0.586CONECT    1  2  3END
